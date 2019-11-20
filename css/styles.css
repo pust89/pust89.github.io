@@ -1,0 +1,268 @@
+body
+{
+background:#CDCFD1;
+font:14px Verdana, Arial, Helvetica, sans-serif;
+padding: 8px;
+}
+
+
+.site-blok
+{
+width:100%; /* ширина сайта*/
+margin: 0 auto; /* выравниваем сайт по сентру*/
+}
+
+.header{
+  position: relative;
+}
+
+
+.header-logo{
+background: url(../img/logo1.svg) no-repeat center center;
+width: 100%;
+height: 100px;
+}
+
+.header h1
+{
+background-color:6A99CE;
+text-align:center;
+font:25px "Impact", Times, serif;
+color:#013500;
+}
+
+.menu
+{
+height:30px;
+position: relative;
+}
+
+.menu a{
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding:5px;
+  font:20px "Impact", Times, serif;
+  transition: 0.4s ease-in-out;
+    color:#fff
+}
+
+.menu p{
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding:5px;
+  font:20px "Impact", Times, serif;
+  transition: 0.4s ease-in-out;
+    color:#fff
+}
+
+/* Кнопка Главная */
+.mainmenubtn {
+  text-align: center;
+  position: absolute;
+  width: 15%;
+  background-color: #B7005B;
+  border: none;
+  cursor: pointer;
+  float: left;
+  margin-left:5%;
+  	text-shadow: 4px 4px 6px rgba(0,0,0,.75);
+}
+
+.mainmenubtn :hover {
+    background-color: red;
+    }
+
+/* Кнопка Приложения*/
+.dropdownbtnapp {
+    position: absolute;
+    text-align: center;
+    width: 15%;
+  background-color: #B7005B;
+    border: none;
+    cursor: pointer;
+    float: left;
+    margin-left: 30%;
+    	text-shadow: 4px 4px 6px rgba(0,0,0,.75);
+}
+
+.dropdownbtnapp:hover {
+    background-color: red;
+    }
+
+.dropdownbtnapp-child {
+    display: none;
+     background-color:#4A5EA2;
+    min-width: 15%;
+}
+
+.dropdownbtnapp-child :hover {
+    background-color: #B7005B;
+    }
+
+
+.dropdownbtnapp-child a {
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding:15px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.4s ease-in-out;
+      color:#fff;
+}
+
+
+.dropdownbtnapp:hover .dropdownbtnapp-child {
+    display: block;
+}
+/* ************************************/
+
+
+/* Кнопка Политики*/
+.dropdownbtnpl {
+    position: absolute;
+    text-align: center;
+    width: 15%;
+  background-color: #B7005B;
+    border: none;
+    cursor: pointer;
+    float: left;
+    margin-left: 55%;
+    	text-shadow: 4px 4px 6px rgba(0,0,0,.75);
+}
+
+.dropdownbtnpl:hover {
+    background-color: red;
+    }
+
+.dropdownbtnpl-child {
+    display: none;
+     background-color:#4A5EA2;
+    min-width: 15%;
+}
+
+.dropdownbtnpl-child :hover {
+    background-color: red;
+    }
+
+
+.dropdownbtnpl-child a {
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding:15px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.4s ease-in-out;
+      color:#fff;
+}
+
+
+.dropdownbtnpl:hover .dropdownbtnpl-child {
+    display: block;
+}
+/* ************************************/
+
+ /* Кнопка Контакты***********************/
+.contactsbtn {
+      text-align: center;
+      position: absolute;
+      width: 15%;
+  background-color:#B7005B;
+      border: none;
+      cursor: pointer;
+      float: left;
+      margin-left:80%;
+      	text-shadow: 4px 4px 6px rgba(0,0,0,.75);
+    }
+
+  .contactsbtn  :hover {
+        background-color: red;
+        }
+/* ************************************/
+
+
+.blok-wrapper
+{
+background-color: #6A99CE;
+overflow: hidden;
+padding:20px 40px 20px 40px;
+min-height: 900px;
+}
+
+.blok-content
+{
+background:#6A99CE;
+/*background:#010101 url(../img/splashscreen.svg) repeat center top;*/
+width:100%; /* ширина блока левого*/
+height:100%;
+min-height:inherit;
+margin: 0 auto; /* выравниваем блок по сентру*/
+padding:5px;
+box-shadow: 0 0 15px rgba(0,0,0,0.9); /* Параметры тени */
+text-align:center;
+
+}
+.blok-content img{
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-left: 25px;
+    width:30%;
+    height:auto;
+    float: left;
+}
+
+
+.blok-content h1{
+    margin: 25px;
+  font-family: "Arial Black", "Arial", "Helvetica",sans-serif;
+	font-size: 2.6em;
+	text-shadow: 4px 4px 6px rgba(0,0,0,.75);
+	text-align:left;
+color: #fff;
+}
+
+.blok-content h2{
+    margin: 25px;
+  font-family: "Arial Black", "Arial", "Helvetica",sans-serif;
+	font-size: 1.6em;
+	text-shadow: 4px 4px 6px rgba(0,0,0,.75);
+	text-align:left;
+color: #fff;
+}
+
+.blok-content h3{
+    margin: 15px;
+  font-family: "Arial Black", "Arial", "Helvetica",sans-serif;
+	font-size: 20px;
+	text-align:left;
+color: #fff;
+}
+.blok-content p{
+  margin-left: 30px;
+   margin-top: 10px;
+    font-size: 15px;
+		font-family: "Arial Black", "Arial", "Helvetica",sans-serif;
+		text-align:left;
+	color: #fff;
+}
+
+
+.footer
+{
+min-height: 25px;
+}
+.footer p
+{
+font:20px "Times New Roman", Times, serif;
+color:#013500;
+margin-bottom: 1px;
+}
+
+
