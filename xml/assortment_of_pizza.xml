@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Фермерская»</name>
+		<img>https://pust89.github.io/img/pizza/fermerskaja.jpeg</img>
+		<summary>Оригинальная пицца с копченым картофелем, нежным беконом, маринованными огурцами, хрустящим луком и соусом тар-тар.</summary>
+		<price>430</price>
+		<weight>680</weight>
+		<composition>Картофель копченый, бекон, огурцы маринованные, сыр моцарелла, лук красный, лук карамелизированный, соус тар-тар, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>11</protein>
+			<carbohydrate>25</carbohydrate>
+			<fat>13</fat>
+			<calories>262</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Четыре сезона»</name>
+		<img>https://pust89.github.io/img/pizza/chetyre_sezona.jpeg</img>
+		<summary>Две сытных мясных и две вегетарианских пиццы в одной — пепперони, ветчина, грибы и яркий овощной микс.</summary>
+		<price>499</price>
+		<weight>600</weight>
+		<composition>Колбаса пепперони, ветчина, шампиньоны, помидоры, цукини, лук красный, маслины черные,сыр брынза, сыр моцарелла, соус томатный, орегано, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>10</protein>
+			<carbohydrate>17</carbohydrate>
+			<fat>9</fat>
+			<calories>192</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Сырная»</name>
+		<img>https://pust89.github.io/img/pizza/syrnaja.jpeg</img>
+		<summary>Двойная моцарелла и томатный соус — минималистичное блюдо для самых избирательных в еде.</summary>
+		<price>399</price>
+		<weight>540</weight>
+		<composition>Сыр моцарелла, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>14</protein>
+			<carbohydrate>17</carbohydrate>
+			<fat>12</fat>
+			<calories>231</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Барбекю»</name>
+		<img>https://pust89.github.io/img/pizza/barbekju.jpeg</img>
+		<summary>Ароматный бекон, курица, ветчина и сладкий болгарский перец. Неповторимый вкус пицце придает традиционный американский соус барбекю.</summary>
+		<price>499</price>
+		<weight>660</weight>
+		<composition>Куриное филе бедра маринованное, ветчина, бекон, сыр моцарелла, перец болгарский красный, лук красный, соус томатный барбекью, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>8</protein>
+			<carbohydrate>14</carbohydrate>
+			<fat>7</fat>
+			<calories>156</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Вегетарианская»</name>
+		<img>https://pust89.github.io/img/pizza/vegetarianskaja.jpeg</img>
+		<summary>Кабачок, кубики освежающей брынзы, сладкий болгарский перец, маслины, красный лук и орегано.</summary>
+		<price>499</price>
+		<weight>690</weight>
+		<composition>Кабачки, помидоры, перец болгарский красный, лук красный, маслины черные, сыр моцарелла, сыр брынза, орегано, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>9</protein>
+			<carbohydrate>16</carbohydrate>
+			<fat>8</fat>
+			<calories>171</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Амстердам»</name>
+		<img>https://pust89.github.io/img/pizza/amsterdam.jpeg</img>
+		<summary>Нежная ветчина, шампиньоны, мягкая моцарелла — известное аппетитное сочетание, и ничего лишнего.</summary>
+		<price>450</price>
+		<weight>670</weight>
+		<composition>Ветчина, шампиньоны, помидоры, лук красный, сыр моцарелла, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>10</protein>
+			<carbohydrate>15</carbohydrate>
+			<fat>8</fat>
+			<calories>168</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Морская»</name>
+		<img>https://pust89.github.io/img/pizza/morskaja.jpeg</img>
+		<summary>Наша фирменная пицца с морепродуктами: нежные креветки, сладкий красный перец, маслины и горбуша с чесночным соусом ранч.</summary>
+		<price>530</price>
+		<weight>560</weight>
+		<composition>Горбуша копченая, креветки салатные, перец сладкий красный, маслины черные, сыр моцарелла, соус ранч, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>8</protein>
+			<carbohydrate>19</carbohydrate>
+			<fat>11</fat>
+			<calories>211</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Мехико»</name>
+		<img>https://pust89.github.io/img/pizza/mekhiko.jpeg</img>
+		<summary>Острая пицца с пепперони, говядиной, болгарским перцем и жгучим халапеньо.</summary>
+		<price>499</price>
+		<weight>605</weight>
+		<composition>Колбаса пепперони, говядина фарш, помидоры, лук красный, перец болгарский красный, перец халапеньо маринованный, сыр моцарелла, соус острый, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>9</protein>
+			<carbohydrate>16</carbohydrate>
+			<fat>9</fat>
+			<calories>181</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Техас»</name>
+		<img>https://pust89.github.io/img/pizza/tekhas.jpeg</img>
+		<summary>Ветчина, ароматный бекон, курица и пряная пепперони с нежной моцареллой и эмменталем.</summary>
+		<price>520</price>
+		<weight>650</weight>
+		<composition>Ветчина, куриное филе бедра маринованное, колбаса пепперони, бекон, сыр моцарелла, сыр эмменталь, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>11</protein>
+			<carbohydrate>13</carbohydrate>
+			<fat>10</fat>
+			<calories>191</calories>
+		</energyValues>
+	</item>
+	
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Маргарита»</name>
+		<img>https://pust89.github.io/img/pizza/margarita.jpeg</img>
+		<summary>Слегка запеченные кубики помидора, мягкая тягучая моцарелла и немного орегано для аромата — классическая «Маргарита».</summary>
+		<price>580</price>
+		<weight>399</weight>
+		<composition>Помидоры, сыр моцарелла, соус томатный, орегано, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>9</protein>
+			<carbohydrate>18</carbohydrate>
+			<fat>8</fat>
+			<calories>182</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Четыре сыра»</name>
+		<img>https://pust89.github.io/img/pizza/chetyre_syra.jpeg</img>
+		<summary>Нестареющая классика — нежный эмменталь, пармезан, мягкая моцарелла и благородный дор-блю.</summary>
+		<price>450</price>
+		<weight>550</weight>
+		<composition>Сыр моцарелла, сыр эмменталь, сыр пармезан, сыр дор-блю, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>14</protein>
+			<carbohydrate>17</carbohydrate>
+			<fat>12</fat>
+			<calories>236</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Пепперони»</name>
+		<img>https://pust89.github.io/img/pizza/pepperoni.jpeg</img>
+		<summary>Простая, как все гениальное, острая пицца с пряной итальянской колбасой пепперони и перцем халапеньо.</summary>
+		<price>430</price>
+		<weight>540</weight>
+		<composition>Колбаса пепперони, сыр моцарелла, перец халапеньо маринованный, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>12</protein>
+			<carbohydrate>17</carbohydrate>
+			<fat>12</fat>
+			<calories>232</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Гавайская»</name>
+		<img>https://pust89.github.io/img/pizza/gavajjskaja.jpeg</img>
+		<summary>Пицца для ценителей нестандартных вкусовых сочетаний: нежная ветчина, курица и сочный ананас.</summary>
+		<price>437</price>
+		<weight>590</weight>
+		<composition>Куриное филе бедра маринованное, ветчина, ананас консервированный, сыр моцарелла, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>9</protein>
+			<carbohydrate>19</carbohydrate>
+			<fat>8</fat>
+			<calories>183</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Санта-Барбара»</name>
+		<img>https://pust89.github.io/img/pizza/santa_barbara.jpeg</img>
+		<summary>Курица, говядина, красный лук и пикантные колбаски с маринованными огурцами.</summary>
+		<price>450</price>
+		<weight>650</weight>
+		<composition>Куриное филе бедра маринованное, говядина (фарш), колбаски охотничьи, сыр моцарелла, лук репчатый красный, огурцы маринованные, томатный соус, тесто дрожжевое, мука пш. в\с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>10</protein>
+			<carbohydrate>18</carbohydrate>
+			<fat>10</fat>
+			<calories>200</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Мюнхен»</name>
+		<img>https://pust89.github.io/img/pizza/mjunkhen.jpeg</img>
+		<summary>Популярная пицца с ветчиной, беконом, курицей, ароматной пепперони, грибами и красным луком.</summary>
+		<price>499</price>
+		<weight>770</weight>
+		<composition>Ветчина, куриное филе бедра маринованное, колбаса пепперони, бекон, шампиньоны, помидоры, лук красный, сыр моцарелла, сыр эмменталь, соус томатный, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>9</protein>
+			<carbohydrate>12</carbohydrate>
+			<fat>9</fat>
+			<calories>164</calories>
+		</energyValues>
+	</item>
+	
+	<item>
+		<category>pizza</category>
+		<name>Пицца «Колорадо»</name>
+		<img>https://pust89.github.io/img/pizza/kolorado.jpeg</img>
+		<summary>Сытная пицца с сочной курицей, грибами, белым соусом тар-тар и ароматным пармезаном.</summary>
+		<price>499</price>
+		<weight>770</weight>
+		<composition>Куриное филе бедра марин., шампиньоны св., помидоры, лук красный, сыр моцарелла, соус тар-тар, сыр пармезан, тесто дрожжевое, мука пш. в\с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>9</protein>
+			<carbohydrate>16</carbohydrate>
+			<fat>11</fat>
+			<calories>205</calories>
+		</energyValues>
+	</item>
+	
+	
+		<item>
+		<category>pizza</category>
+		<name>Пицца «Сладкая»</name>
+		<img>https://pust89.github.io/img/pizza/sladkaja.jpeg</img>
+		<summary>Нетривиальный десерт или угощение для младших: лесная черника, сочный ананас, сгущенка и малиновый сироп.</summary>
+		<price>379</price>
+		<weight>500</weight>
+		<composition>Черника, консервированный ананас, сгущенное молоко, малиновый сироп, тесто дрожжевое, мука в/с из твердых сортов пшеницы.</composition>
+		<energyValues>
+			<protein>5</protein>
+			<carbohydrate>39</carbohydrate>
+			<fat>4</fat>
+			<calories>214</calories>
+		</energyValues>
+	</item>
+	
+	
+</feed>
