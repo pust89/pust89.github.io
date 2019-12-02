@@ -1,0 +1,34 @@
+﻿[
+  {
+    "summary": "лапша удон, лосось, креветка тигровая, перец болгарский, огурец, лук, сливочный соус.",
+    "price": "439",
+    "name": "Wok с морепродуктами",
+    "weight": "355",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/s_moreproduktami.jpg"
+  },
+  {
+    "summary": "лапша удон, цыпленок, овощи микс, шампиньоны, кунжут, соус терияки.",
+    "price": "299",
+    "name": "Классический Wok",
+    "weight": "420",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/classic.jpg"
+  },
+  {
+    "summary": "лапша удон, цыпленок, бекон, шампиньоны, чеснок, сливочный соус.",
+    "price": "345",
+    "name": "Сытный Wok",
+    "weight": "360",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/sitnii.jpg"
+  },
+  {
+    "summary": "цыпленок, шампиньоны, морковь, чеснок, паприка, кунжут, соус Амой, устричный соус.",
+    "price": "349",
+    "name": "Цыплёнок по-тайски",
+    "weight": "290",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/ciplenok_po_taiski.jpg"
+  }
+]

@@ -1,0 +1,242 @@
+﻿[
+  {
+    "summary": "БикМак (30 см), Аль-Шам (30 см) на тонком тесте.",
+    "price": "995",
+    "name": "Восточная Америка",
+    "weight": "1375",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/vostochnay_amerika.jpg"
+  },
+  {
+    "summary": "Мафия (20 см), Чикен барбекю (20 см), Прошутто фунги (20 см), Пепперони (20 см).",
+    "price": "777",
+    "name": "Мориарти",
+    "weight": "1210",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/moriarty.jpg"
+  },
+  {
+    "summary": "wok Сытный, Оливье, морс из черной смородины 0,5 л.",
+    "price": "495",
+    "name": "Сытный перекус",
+    "weight": "530",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/sitnii_perekus.jpg"
+  },
+  {
+    "summary": "Лучано (30 см), Тони пепперони (30 см), Дон Томаго (30 см), Прошутто фунги (30 см).",
+    "price": "1350",
+    "name": "Сочный калибр",
+    "weight": "2490",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/sochnii_kalibr.jpg"
+  },
+  {
+    "summary": "Пепперони (30 см), Дракон (30 см), Нежная (30 см).",
+    "price": "1200",
+    "name": "Тройной удар",
+    "weight": "2155",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/troinoi_udar.jpg"
+  },
+  {
+    "summary": "wok Классический, ролл Венеция, морс из черной смородины 0,5 л.",
+    "price": "495",
+    "name": "Вок обед",
+    "weight": "610",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/wok_obed.jpg"
+  },
+  {
+    "summary": "Феникс, ролл Венеция, Калифорния с тигровой креветкой.",
+    "price": "785",
+    "name": "Дон Мафия",
+    "weight": "681",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/don_mafii.jpg"
+  },
+  {
+    "summary": "фишен чипсы, сорренто (30 см), пицца Мафия (30 см), морс из чёрной смородины 1л.",
+    "price": "1250",
+    "name": "Мафия",
+    "weight": "1346",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/mafia.jpg"
+  },
+  {
+    "summary": "Пепперони (30 см), Калифорния с тигровой креветкой, морс из черной смородины 0,5 л.",
+    "price": "660",
+    "name": "Пижон",
+    "weight": "882",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/pigon.jpg"
+  },
+  {
+    "summary": "Пепперони (30 см), Мичиган (30 см), ролл Венеция, ролл Мажор.",
+    "price": "1199",
+    "name": "Версус",
+    "weight": "1854",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/versus.jpg"
+  },
+  {
+    "summary": "Лучано (30 см), Тони пепперони (30 см), Дон Томаго (30 см).",
+    "price": "898",
+    "name": "Хет-Трик",
+    "weight": "1840",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/het_trik.jpg"
+  },
+  {
+    "summary": "Мичиган (30 см), Тони пепперони (30 см), Дон Томаго (30 см), Карбонара (30 см), Прошутто фунги (30 см).",
+    "price": "1599",
+    "name": "Славные парни",
+    "weight": "3070",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/slavnii_parni.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (30 см), Тони пепперони (30 см), Филадельфия Лайт, ролл Венеция.",
+    "price": "999",
+    "name": "Заточинни",
+    "weight": "1637",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/zatochini.jpg"
+  },
+  {
+    "summary": "пицца Карбонара (30 см), Дракон (30 см), Прошутто фунги (30 см), 4 сыра (30 см), запечённый ролл Сицилия, Калифорния с тигровой креветкой, королевский ролл с креветкой.",
+    "price": "2350",
+    "name": "Великолепная семёрка",
+    "weight": "3173",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/velikolepnay_semerka.jpg"
+  },
+  {
+    "summary": "запечённый ролл Великий Гэтсби, запечённый ролл Сицилия, запечённый ролл Джеральдино.",
+    "price": "780",
+    "name": "Сицилийское трио",
+    "weight": "796",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/siciliiskoe_trio.jpg"
+  },
+  {
+    "summary": "wok Классический, wok Сытный, пицца Дракон (30 см).",
+    "price": "849",
+    "name": "Капулетти",
+    "weight": "1510",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/kapulleti.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (20 см), куриные крылышки 5 шт, картофель Айдахо, Сырный соус, Деревенский соус.",
+    "price": "495",
+    "name": "Оригинальди",
+    "weight": "625",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/originaldi.jpg"
+  },
+  {
+    "summary": "запечённый ролл Великий Гэтсби, запечённый ролл Сицилия, Пепперони (30 см).",
+    "price": "889",
+    "name": "Куанто Коста",
+    "weight": "1122",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/kuanto_kosto.jpg"
+  },
+  {
+    "summary": "пицца Петровская (20см), Пепперони (20 см), куриные крылышки 10 шт, картофель Айдахо, кетчуп, Сырный соус, Деревенский соус.",
+    "price": "999",
+    "name": "Грандиозо",
+    "weight": "1295",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/grandiozo.jpg"
+  },
+  {
+    "summary": "королевский ролл с креветкой, Филадельфия Лайт, Феникс, Калифорния с тигровой креветкой.",
+    "price": "1199",
+    "name": "4 туза",
+    "weight": "967",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/four_tuza.jpg"
+  },
+  {
+    "summary": "Дон Томаго (30 см), Чикен барбекю (30 см), Мичиган (30 см), Лучано (30 см), Тонкое тесто: пепперони (30 см), Карбонара (30 см), Аль-Шам (30 см), 4 сыра (30 см).",
+    "price": "2750",
+    "name": "Корпоративный",
+    "weight": "4590",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/korporotivnii.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (30 см), 4 сыра (30 см), Гавайская (30 см) на тонком тесте , Мафия (30 см), Тони Тунец (30 см), Аль-Шам (30 см) на тонком тесте, Пепперони (30 см) на ржаном тесте.",
+    "price": "3553",
+    "name": "5+2 (2 пиццы в подарок)",
+    "weight": "4560",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/fiva_plus_two.jpg"
+  },
+  {
+    "summary": "Феличита (30 см), Мичиган (30 см), Мафия (30 см), Тони Тунец (30 см), Тонкое тесто: пепперони (30 см), Карбонара (30 см), Вегетарианская (30 см), Гавайская (30 см), Прошутто фунги (30 см) на ржаном тесте.",
+    "price": "4557",
+    "name": "6+3 (3 пиццы в подарок)",
+    "weight": "5320",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/six_plus_tree.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (30 см), Маргарита (30 см).",
+    "price": "749",
+    "name": "Маст Хэв",
+    "weight": "1170",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/must_have.jpg"
+  },
+  {
+    "summary": "Дон Томаго (30 см), ролл Венеция.",
+    "price": "830",
+    "name": "Гамбит",
+    "weight": "820",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/gambit.jpg"
+  },
+  {
+    "summary": "ролл Венеция, Маргарита (30 см).",
+    "price": "615",
+    "name": "Касабланка",
+    "weight": "710",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/kasablanca.jpg"
+  },
+  {
+    "summary": "Дон Томаго (30 см), Маргарита (30 см), Лучано (30 см).",
+    "price": "1340",
+    "name": "3 пиццы",
+    "weight": "1770",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/three_pizza.jpg"
+  },
+  {
+    "summary": "запечённый ролл Джеральдино, ролл Мажор, ролл Венеция, ролл с шиитаке в моцарелле.",
+    "price": "1128",
+    "name": "Комбо 1 кг",
+    "weight": "1033",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/combo_one_kg.jpg"
+  },
+  {
+    "summary": "wok Классический (2 шт), морс из чёрной смородины 1л.",
+    "price": "763",
+    "name": "Дабл вок",
+    "weight": "840",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/double_wok.jpg"
+  },
+  {
+    "summary": "запечённый ролл Джеральдино, ролл Мажор, Калифорния с тигровой креветкой, запечённый ролл Сицилия.",
+    "price": "1194",
+    "name": "Белуччи",
+    "weight": "1058",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/beluchi.jpg"
+  }
+]

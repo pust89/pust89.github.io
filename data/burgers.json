@@ -1,0 +1,18 @@
+﻿[
+  {
+    "summary": "котлета говяжья, айсберг, огурцы маринованные, лук красный, соус барбекю.",
+    "price": "349",
+    "name": "Двойной бургер",
+    "weight": "280",
+    "type": "burger",
+    "url": "https://pust89.github.io/img/m/burgers/dvoinoi.jpg"
+  },
+  {
+    "summary": "цыпленок, айсберг, томаты, огурцы маринованные, лук красный, Сырный соус.",
+    "price": "329",
+    "name": "Бургер с цыпленком и сырным соусом",
+    "weight": "345",
+    "type": "burger",
+    "url": "https://pust89.github.io/img/m/burgers/s_ciplenkom_i_sirnim_sousom.jpg"
+  }
+]

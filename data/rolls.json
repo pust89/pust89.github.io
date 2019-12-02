@@ -1,0 +1,170 @@
+﻿[
+  {
+    "summary": "угорь, сливочный сыр, огурец, унаги соус, кунжут.",
+    "price": "439",
+    "name": "Филадельфия в угре",
+    "weight": "269",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadilfia_v_ugre.jpg"
+  },
+  {
+    "summary": "креветка тигровая, сливочный сыр, омлет, айсберг, кунжут, икра масаго, яки соус.",
+    "price": "395",
+    "name": "Запечённый ролл с креветкой",
+    "weight": "279",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_krevetkami.jpg"
+  },
+  {
+    "summary": "лосось, угорь, сливочный сыр, омлет, икра масаго, кунжут, яки соус.",
+    "price": "439",
+    "name": "Запечённый ролл с лососем и угрём",
+    "weight": "279",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_lososem_i_ugrem.jpg"
+  },
+  {
+    "summary": "лосось, креветка тигровая, угорь, сливочный сыр, кунжут, унаги соус.",
+    "price": "559",
+    "name": "Ролл Фирменный \"Мафия\"",
+    "weight": "274",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/firemennii_mafia.jpg"
+  },
+  {
+    "summary": "креветка тигровая, огурец, миндаль, краб-крем, икра масаго, шеф соус.",
+    "price": "295",
+    "name": "Калифорния с тигровой креветкой",
+    "weight": "252",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/kalifornia_s_tigrivoi_krevedkoi.jpg"
+  },
+  {
+    "summary": "лосось, огурец, сливочный сыр.",
+    "price": "269",
+    "name": "Филадельфия лайт",
+    "weight": "207",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadelfia_light.jpg"
+  },
+  {
+    "summary": "сливочный сыр, креветка тигровая, краб-крем, айсберг, лимон, унаги соус, кунжут.",
+    "price": "395",
+    "name": "Королевский ролл с креветкой",
+    "weight": "269",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/korolevskii_s_krevedkoi.jpg"
+  },
+  {
+    "summary": "лосось, огурец, сливочный сыр.",
+    "price": "399",
+    "name": "Филадельфия люкс",
+    "weight": "267",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadelfia_lux.jpg"
+  },
+  {
+    "summary": "угорь, омлет, огурец, краб-крем, икра масаго, спайси масаго соус.",
+    "price": "335",
+    "name": "Запеченный ролл Сицилия",
+    "weight": "202",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_sicilia.jpg"
+  },
+  {
+    "summary": "цыпленок, омлет, кунжут, огурец, сливочный сыр, перец болгарский, Сырный соус, унаги соус, соус Шеф.",
+    "price": "265",
+    "name": "Запеченный ролл Джеральдино",
+    "weight": "304",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_dgerdino.jpg"
+  },
+  {
+    "summary": "лосось, креветка тигровая, сливочный сыр, огурец.",
+    "price": "439",
+    "name": "Филадельфия с тигровой креветкой",
+    "weight": "277",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadelfia_s_tigrovoi_krevetkoi.jpg"
+  },
+  {
+    "summary": "шиитаке терияки, цыпленок, омлет, сливочный сыр, моцарелла, икра масаго, Сырный соус.",
+    "price": "299",
+    "name": "Ролл с шиитаке в моцарелле",
+    "weight": "265",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/shiitaki_v_mocarelle.jpg"
+  },
+  {
+    "summary": "Сырный соус, лосось, креветка тигровая, сливочный сыр, моцарелла, икра масаго.",
+    "price": "399",
+    "name": "Ролл с лососем и креветкой в моцарелле",
+    "weight": "265",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/s_lososem_i_krevedeoi_v_macarelle.jpg"
+  },
+  {
+    "summary": "угорь, моцарелла, сливочный сыр, икра масаго, Сырный соус.",
+    "price": "479",
+    "name": "Ролл с угрем в моцарелле",
+    "weight": "260",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/s_ugrem_v_mocarelle.jpg"
+  },
+  {
+    "summary": "лосось, блин, сливочный сыр, огурец, томаты, икра масаго, кунжут, унаги соус.",
+    "price": "265",
+    "name": "Ролл Венеция",
+    "weight": "190",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/venecia.jpg"
+  },
+  {
+    "summary": "лосось, креветка тигровая, омлет, сливочный сыр, икра масаго, кунжут, яки соус.",
+    "price": "399",
+    "name": "Запеченный ролл Лосось и креветка",
+    "weight": "269",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_losos_i_krevedka.jpg"
+  },
+  {
+    "summary": "угорь, омлет, сливочный сыр, огурец, икра масаго, кунжут, яки соус.",
+    "price": "439",
+    "name": "Запеченный ролл с угрем",
+    "weight": "289",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_ugrem.jpg"
+  },
+  {
+    "summary": "лосось, огурец, сливочный сыр, икра масаго, кунжут, яки соус.",
+    "price": "399",
+    "name": "Запеченный ролл с лососем",
+    "weight": "289",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_lososem.jpg"
+  },
+  {
+    "summary": "авокадо, сливочный сыр, краб-крем, икра масаго, соус Шеф.",
+    "price": "295",
+    "name": "Запеченный ролл Великий Гэтсби",
+    "weight": "290",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_velikii_getsbi.jpg"
+  },
+  {
+    "summary": "лосось, огурец, краб-крем, сливочный сыр, икра масаго, кунжут.",
+    "price": "335",
+    "name": "Ролл Феникс",
+    "weight": "239",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/fenix.jpg"
+  },
+  {
+    "summary": "лосось, краб-крем, омлет, огурец, айсберг, пармезан, икра масаго, сливочно-чесночный соус.",
+    "price": "299",
+    "name": "Ролл Мажор",
+    "weight": "274",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/magor.jpg"
+  }
+]

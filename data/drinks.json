@@ -1,0 +1,82 @@
+﻿[
+  {
+    "summary": "",
+    "price": "165",
+    "name": "Морс из черной смородины 1 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/mors_iz_chern_smorodini.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Морс клюквенный 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/mors_klukvennii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Лимонад имбирный 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/limonad_imbirnii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "130",
+    "name": "Coca-Cola 1 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/coca_cola.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Sprite 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/sprite.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Fanta 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/fanta.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Coca-Cola Zero 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/coca_cola_zero.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Чай FuzeTea лесные ягоды 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/fuzetea.jpg"
+  },
+  {
+    "summary": "",
+    "price": "50",
+    "name": "BonAqua негаз. 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/bonaqua.jpg"
+  },
+  {
+    "summary": "",
+    "price": "130",
+    "name": "Энергетический напиток Burn 0,33 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/burn.jpg"
+  }
+]

@@ -1,0 +1,34 @@
+﻿[
+  {
+    "summary": "",
+    "price": "199",
+    "name": "Сметанник",
+    "weight": "120",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/smetannik.jpg"
+  },
+  {
+    "summary": "творог, груша, чернослив, киви, сахарная пудра, топпинг клубничный, топпинг шоколадный.",
+    "price": "199",
+    "name": "Шокко дольче",
+    "weight": "175",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/shoko_dolche.jpg"
+  },
+  {
+    "summary": "топпинг клубничный, топпинг шоколадный, Чизкейк классический.",
+    "price": "165",
+    "name": "Чизкейк классический",
+    "weight": "120",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/chesecake_classic.jpg"
+  },
+  {
+    "summary": "творог, вишня, груша, манго, топпинг шоколадный, топпинг клубничный, сахарная пудра.",
+    "price": "199",
+    "name": "Дольче фрутто",
+    "weight": "146",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/dolche_frutto.jpg"
+  }
+]

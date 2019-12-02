@@ -1,0 +1,90 @@
+﻿[
+  {
+    "summary": "свиные рёбрышки, цветная капуста в кляре, соус барбекю.",
+    "price": "399",
+    "name": "Рёбрышки",
+    "weight": "340",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/rebrishki.jpg"
+  },
+  {
+    "summary": "утка, грибы шиитаке, фасоль стручковая , морковь, лук, дайкон, редис, чеснок, перец чили , кунжут, устричный соус, пикантный соус.",
+    "price": "445",
+    "name": "Утка с овощами",
+    "weight": "280",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/utka_s_ovoshami.jpg"
+  },
+  {
+    "summary": "фарш говяжий, лук, зира, кориандр, ролл пшеничный, перец черный , перец красный , соус шашлычный.",
+    "price": "335",
+    "name": "Люля Кебаб",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/lula_kebab.jpg"
+  },
+  {
+    "summary": "цыпленок, ананас, кешью, фасоль, сельдерей, чеснок, перец чили , кунжут, кинза, лук зеленый, соус сладкий чили.",
+    "price": "349",
+    "name": "Цыпленок с ананасами и кешью",
+    "weight": "280",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/ciplenok_s_ananasmi.jpg"
+  },
+  {
+    "summary": "цыпленок, томаты, огурец, соус шаверма.",
+    "price": "249",
+    "name": "Шаверма с цыпленком",
+    "weight": "275",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shaverma_s_ciplenkom.jpg"
+  },
+  {
+    "summary": "цыпленок, лаваш, лук маринованный, соус шашлычный.",
+    "price": "335",
+    "name": "Шашлык из грудки цыпленка",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shashlik_iz_grudki_ciplenak.jpg"
+  },
+  {
+    "summary": "свинина, лаваш, лук маринованный, соус шашлычный.",
+    "price": "399",
+    "name": "Шашлык из свинины",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shahlik_iz_svinini.jpg"
+  },
+  {
+    "summary": "спагетти, бекон, лук, яйцо, перец черный , сливки.",
+    "price": "325",
+    "name": "Паста карбонара",
+    "weight": "320",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/pasta_karbanara.jpg"
+  },
+  {
+    "summary": "свинина, фасоль, чеснок, кунжут, перец чили , кинза, лук зеленый, соус томатно-острый.",
+    "price": "399",
+    "name": "Свинина по-сычуаньски",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/svinina_po_sichuanski.jpg"
+  },
+  {
+    "summary": "цыпленок, лаваш, соус шашлычный.",
+    "price": "355",
+    "name": "Шашлык из бедра цыпленка",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shahlik_iz_bedra_ciplenka.jpg"
+  },
+  {
+    "summary": "огурец, томаты, перец болгарский, лук зеленый, укроп, кинза, перец черный .",
+    "price": "169",
+    "name": "Овощная тарелка к шашлыку",
+    "weight": "190",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/ovoshnay_tarelka.jpg"
+  }
+]

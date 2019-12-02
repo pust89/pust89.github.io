@@ -1,0 +1,106 @@
+﻿[
+  {
+    "summary": "",
+    "price": "80",
+    "name": "Комбо соус",
+    "weight": "",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/combo_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "25",
+    "name": "Соус Деликатес",
+    "weight": "",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/sous_delikates.jpg"
+  },
+  {
+    "summary": "",
+    "price": "25",
+    "name": "Соус Нежный",
+    "weight": "",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/sous_neznii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Васаби",
+    "weight": "10",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/vassabi.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Имбирь",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/imbir.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Соевый соус",
+    "weight": "100",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/soevii_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Спайси соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/spaicy_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Терияки соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/teriaki_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Унаги соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/unagi_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "50",
+    "name": "Ореховый соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/orehovii_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "30",
+    "name": "Шашлычный соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/shahlichnii_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "30",
+    "name": "Кетчуп",
+    "weight": "25",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/ketchup.jpg"
+  },
+  {
+    "summary": "",
+    "price": "30",
+    "name": "Сырный соус",
+    "weight": "25",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/sirnii_sous.jpg"
+  }
+]

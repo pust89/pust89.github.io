@@ -1,0 +1,1050 @@
+﻿[
+  {
+    "summary": "пепперони, колбаски охотничьи, моцарелла, пармезан, паприка, лук, спайси соус.",
+    "price": "475",
+    "name": "Ранчо",
+    "weight": "690",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/rancho.jpg"
+  },
+  {
+    "summary": "цыпленок копченый, шампиньоны, корнишоны, халапеньо, айсберг, лук, моцарелла, пармезан, нежный соус.",
+    "price": "495",
+    "name": "Сорренто",
+    "weight": "720",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/sorento.jpg"
+  },
+  {
+    "summary": "пепперони, шампиньоны, корнишоны, лук, моцарелла, пармезан, спайси соус, унаги соус.",
+    "price": "495",
+    "name": "Феличита",
+    "weight": "720",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/felichita.jpg"
+  },
+  {
+    "summary": "моцарелла, томаты, пармезан, болоньезе соус, паприка, сливочно-чесночный соус.",
+    "price": "499",
+    "name": "Болоньезе",
+    "weight": "760",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/boloneze.jpg"
+  },
+  {
+    "summary": "ветчина, пепперони, цыпленок, бекон, моцарелла, лук, соус-пицца.",
+    "price": "499",
+    "name": "Четыре сезона",
+    "weight": "510",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/four_season.jpg"
+  },
+  {
+    "summary": "ветчина, цыпленок, пепперони, шампиньоны, томаты, моцарелла, пармезан, лук, чеснок, соус-пицца.",
+    "price": "499",
+    "name": "Петровская",
+    "weight": "820",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/petrovkoya.jpg"
+  },
+  {
+    "summary": "цыпленок, томаты, айсберг, огурец, моцарелла, лук, сливочно-чесночный соус, кетчуп.",
+    "price": "475",
+    "name": "Аль-Шам",
+    "weight": "570",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/al_sham.jpg"
+  },
+  {
+    "summary": "бекон, ветчина, колбаски охотничьи, пепперони, халапеньо, пармезан, моцарелла, паприка, лук красный, соус-пицца.",
+    "price": "599",
+    "name": "Мафия",
+    "weight": "810",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/mafia.jpg"
+  },
+  {
+    "summary": "пепперони, моцарелла, соус-пицца.",
+    "price": "475",
+    "name": "Пепперони",
+    "weight": "620",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/peperoni.jpg"
+  },
+  {
+    "summary": "моцарелла, сыр дорблю, гауда, пармезан, песто.",
+    "price": "475",
+    "name": "4 сыра",
+    "weight": "630",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/four_chese.jpg"
+  },
+  {
+    "summary": "бекон, цыпленок копченый, шампиньоны, пармезан, моцарелла, лук, сливочно-чесночный соус, соус барбекю.",
+    "price": "416",
+    "name": "Чикен барбекю",
+    "weight": "730",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/chiken_barbeku.jpg"
+  },
+  {
+    "summary": "ветчина, пепперони, шампиньоны, пармезан, халапеньо, моцарелла, лук, паприка маринованная, соус-пицца.",
+    "price": "495",
+    "name": "Дракон",
+    "weight": "720",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/drakon.jpg"
+  },
+  {
+    "summary": "маслины, тунец, моцарелла, лук, соус-пицца.",
+    "price": "565",
+    "name": "Тони Тунец",
+    "weight": "700",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/toni_tunec.jpg"
+  },
+  {
+    "summary": "шампиньоны, ветчина, моцарелла, соус-пицца.",
+    "price": "399",
+    "name": "Прошутто Фунги",
+    "weight": "650",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/proshuto_fungi.jpg"
+  },
+  {
+    "summary": "котлета говяжья, бекон, лук, айсберг, корнишоны, халапеньо, паприка, моцарелла, кунжут, сливочно-чесночный соус.",
+    "price": "599",
+    "name": "БикМак",
+    "weight": "805",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/bigmak.jpg"
+  },
+  {
+    "summary": "ветчина, шампиньоны, томаты, моцарелла, пармезан, яйцо, лук, сливочно-чесночный соус.",
+    "price": "495",
+    "name": "Нежная",
+    "weight": "795",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/negnaia.jpg"
+  },
+  {
+    "summary": "цыпленок копченый, моцарелла, яйцо, лук, соус грибной.",
+    "price": "565",
+    "name": "Жюльен",
+    "weight": "800",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/gulien.jpg"
+  },
+  {
+    "summary": "фирменный соус, цыпленок, ветчина, креветка салатная, ананас, моцарелла.",
+    "price": "565",
+    "name": "Гавайская",
+    "weight": "730",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/gavaiskay.jpg"
+  },
+  {
+    "summary": "бекон, ветчина, шампиньоны, моцарелла, пармезан, лук, чеснок, соус-пицца.",
+    "price": "565",
+    "name": "Деревенская",
+    "weight": "810",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/derevenskaia.jpg"
+  },
+  {
+    "summary": "бекон, яйцо, паприка, моцарелла, лук, соус-пицца.",
+    "price": "399",
+    "name": "Карбонара",
+    "weight": "440",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/karbanara.jpg"
+  },
+  {
+    "summary": "ветчина, бекон, сосиски мюнхенские, опята, черри, моцарелла, пармезан, лук, сливочно-чесночный соус.",
+    "price": "675",
+    "name": "Мюнхен",
+    "weight": "840",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/munchen.jpg"
+  },
+  {
+    "summary": "ветчина, сосиски мюнхенские, бекон, шампиньоны, моцарелла, лук, сливочно-чесночный соус.",
+    "price": "565",
+    "name": "Мичиган",
+    "weight": "760",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/michigan.jpg"
+  },
+  {
+    "summary": "шампиньоны, томаты, корнишоны, маслины, сыр фета, пармезан, моцарелла, соус-пицца, лук, паприка.",
+    "price": "495",
+    "name": "Вегетарианская",
+    "weight": "730",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/vegatarianskaia.jpg"
+  },
+  {
+    "summary": "моцарелла, базилик, соус-пицца.",
+    "price": "350",
+    "name": "Маргарита",
+    "weight": "520",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/margarita.jpg"
+  },
+    {
+    "summary": "лапша удон, лосось, креветка тигровая, перец болгарский, огурец, лук, сливочный соус.",
+    "price": "439",
+    "name": "Wok с морепродуктами",
+    "weight": "355",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/s_moreproduktami.jpg"
+  },
+  {
+    "summary": "лапша удон, цыпленок, овощи микс, шампиньоны, кунжут, соус терияки.",
+    "price": "299",
+    "name": "Классический Wok",
+    "weight": "420",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/classic.jpg"
+  },
+  {
+    "summary": "лапша удон, цыпленок, бекон, шампиньоны, чеснок, сливочный соус.",
+    "price": "345",
+    "name": "Сытный Wok",
+    "weight": "360",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/sitnii.jpg"
+  },
+  {
+    "summary": "цыпленок, шампиньоны, морковь, чеснок, паприка, кунжут, соус Амой, устричный соус.",
+    "price": "349",
+    "name": "Цыплёнок по-тайски",
+    "weight": "290",
+    "type": "wok",
+    "url": "https://pust89.github.io/img/m/woks/ciplenok_po_taiski.jpg"
+  },
+  {
+    "summary": "БикМак (30 см), Аль-Шам (30 см) на тонком тесте.",
+    "price": "995",
+    "name": "Восточная Америка",
+    "weight": "1375",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/vostochnay_amerika.jpg"
+  },
+  {
+    "summary": "Мафия (20 см), Чикен барбекю (20 см), Прошутто фунги (20 см), Пепперони (20 см).",
+    "price": "777",
+    "name": "Мориарти",
+    "weight": "1210",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/moriarty.jpg"
+  },
+  {
+    "summary": "wok Сытный, Оливье, морс из черной смородины 0,5 л.",
+    "price": "495",
+    "name": "Сытный перекус",
+    "weight": "530",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/sitnii_perekus.jpg"
+  },
+  {
+    "summary": "Лучано (30 см), Тони пепперони (30 см), Дон Томаго (30 см), Прошутто фунги (30 см).",
+    "price": "1350",
+    "name": "Сочный калибр",
+    "weight": "2490",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/sochnii_kalibr.jpg"
+  },
+  {
+    "summary": "Пепперони (30 см), Дракон (30 см), Нежная (30 см).",
+    "price": "1200",
+    "name": "Тройной удар",
+    "weight": "2155",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/troinoi_udar.jpg"
+  },
+  {
+    "summary": "wok Классический, ролл Венеция, морс из черной смородины 0,5 л.",
+    "price": "495",
+    "name": "Вок обед",
+    "weight": "610",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/wok_obed.jpg"
+  },
+  {
+    "summary": "Феникс, ролл Венеция, Калифорния с тигровой креветкой.",
+    "price": "785",
+    "name": "Дон Мафия",
+    "weight": "681",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/don_mafii.jpg"
+  },
+  {
+    "summary": "фишен чипсы, сорренто (30 см), пицца Мафия (30 см), морс из чёрной смородины 1л.",
+    "price": "1250",
+    "name": "Мафия",
+    "weight": "1346",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/mafia.jpg"
+  },
+  {
+    "summary": "Пепперони (30 см), Калифорния с тигровой креветкой, морс из черной смородины 0,5 л.",
+    "price": "660",
+    "name": "Пижон",
+    "weight": "882",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/pigon.jpg"
+  },
+  {
+    "summary": "Пепперони (30 см), Мичиган (30 см), ролл Венеция, ролл Мажор.",
+    "price": "1199",
+    "name": "Версус",
+    "weight": "1854",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/versus.jpg"
+  },
+  {
+    "summary": "Лучано (30 см), Тони пепперони (30 см), Дон Томаго (30 см).",
+    "price": "898",
+    "name": "Хет-Трик",
+    "weight": "1840",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/het_trik.jpg"
+  },
+  {
+    "summary": "Мичиган (30 см), Тони пепперони (30 см), Дон Томаго (30 см), Карбонара (30 см), Прошутто фунги (30 см).",
+    "price": "1599",
+    "name": "Славные парни",
+    "weight": "3070",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/slavnii_parni.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (30 см), Тони пепперони (30 см), Филадельфия Лайт, ролл Венеция.",
+    "price": "999",
+    "name": "Заточинни",
+    "weight": "1637",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/zatochini.jpg"
+  },
+  {
+    "summary": "пицца Карбонара (30 см), Дракон (30 см), Прошутто фунги (30 см), 4 сыра (30 см), запечённый ролл Сицилия, Калифорния с тигровой креветкой, королевский ролл с креветкой.",
+    "price": "2350",
+    "name": "Великолепная семёрка",
+    "weight": "3173",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/velikolepnay_semerka.jpg"
+  },
+  {
+    "summary": "запечённый ролл Великий Гэтсби, запечённый ролл Сицилия, запечённый ролл Джеральдино.",
+    "price": "780",
+    "name": "Сицилийское трио",
+    "weight": "796",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/siciliiskoe_trio.jpg"
+  },
+  {
+    "summary": "wok Классический, wok Сытный, пицца Дракон (30 см).",
+    "price": "849",
+    "name": "Капулетти",
+    "weight": "1510",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/kapulleti.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (20 см), куриные крылышки 5 шт, картофель Айдахо, Сырный соус, Деревенский соус.",
+    "price": "495",
+    "name": "Оригинальди",
+    "weight": "625",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/originaldi.jpg"
+  },
+  {
+    "summary": "запечённый ролл Великий Гэтсби, запечённый ролл Сицилия, Пепперони (30 см).",
+    "price": "889",
+    "name": "Куанто Коста",
+    "weight": "1122",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/kuanto_kosto.jpg"
+  },
+  {
+    "summary": "пицца Петровская (20см), Пепперони (20 см), куриные крылышки 10 шт, картофель Айдахо, кетчуп, Сырный соус, Деревенский соус.",
+    "price": "999",
+    "name": "Грандиозо",
+    "weight": "1295",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/grandiozo.jpg"
+  },
+  {
+    "summary": "королевский ролл с креветкой, Филадельфия Лайт, Феникс, Калифорния с тигровой креветкой.",
+    "price": "1199",
+    "name": "4 туза",
+    "weight": "967",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/four_tuza.jpg"
+  },
+  {
+    "summary": "Дон Томаго (30 см), Чикен барбекю (30 см), Мичиган (30 см), Лучано (30 см), Тонкое тесто: пепперони (30 см), Карбонара (30 см), Аль-Шам (30 см), 4 сыра (30 см).",
+    "price": "2750",
+    "name": "Корпоративный",
+    "weight": "4590",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/korporotivnii.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (30 см), 4 сыра (30 см), Гавайская (30 см) на тонком тесте , Мафия (30 см), Тони Тунец (30 см), Аль-Шам (30 см) на тонком тесте, Пепперони (30 см) на ржаном тесте.",
+    "price": "3553",
+    "name": "5+2 (2 пиццы в подарок)",
+    "weight": "4560",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/fiva_plus_two.jpg"
+  },
+  {
+    "summary": "Феличита (30 см), Мичиган (30 см), Мафия (30 см), Тони Тунец (30 см), Тонкое тесто: пепперони (30 см), Карбонара (30 см), Вегетарианская (30 см), Гавайская (30 см), Прошутто фунги (30 см) на ржаном тесте.",
+    "price": "4557",
+    "name": "6+3 (3 пиццы в подарок)",
+    "weight": "5320",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/six_plus_tree.jpg"
+  },
+  {
+    "summary": "Прошутто фунги (30 см), Маргарита (30 см).",
+    "price": "749",
+    "name": "Маст Хэв",
+    "weight": "1170",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/must_have.jpg"
+  },
+  {
+    "summary": "Дон Томаго (30 см), ролл Венеция.",
+    "price": "830",
+    "name": "Гамбит",
+    "weight": "820",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/gambit.jpg"
+  },
+  {
+    "summary": "ролл Венеция, Маргарита (30 см).",
+    "price": "615",
+    "name": "Касабланка",
+    "weight": "710",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/kasablanca.jpg"
+  },
+  {
+    "summary": "Дон Томаго (30 см), Маргарита (30 см), Лучано (30 см).",
+    "price": "1340",
+    "name": "3 пиццы",
+    "weight": "1770",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/three_pizza.jpg"
+  },
+  {
+    "summary": "запечённый ролл Джеральдино, ролл Мажор, ролл Венеция, ролл с шиитаке в моцарелле.",
+    "price": "1128",
+    "name": "Комбо 1 кг",
+    "weight": "1033",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/combo_one_kg.jpg"
+  },
+  {
+    "summary": "wok Классический (2 шт), морс из чёрной смородины 1л.",
+    "price": "763",
+    "name": "Дабл вок",
+    "weight": "840",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/double_wok.jpg"
+  },
+  {
+    "summary": "запечённый ролл Джеральдино, ролл Мажор, Калифорния с тигровой креветкой, запечённый ролл Сицилия.",
+    "price": "1194",
+    "name": "Белуччи",
+    "weight": "1058",
+    "type": "set",
+    "url": "https://pust89.github.io/img/m/sets/beluchi.jpg"
+  },
+   {
+    "summary": "фишен чипсы, картофель фри, соус.",
+    "price": "299",
+    "name": "Фиш-н-чипс",
+    "weight": "260",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/fish_and_chips.jpg"
+  },
+  {
+    "summary": "ветчина, яйцо, корнишоны, морковь, картофель, горошек, укроп.",
+    "price": "199",
+    "name": "Оливье",
+    "weight": "170",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/olive.jpg"
+  },
+  {
+    "summary": "цыпленок, черри, айсберг, пармезан, гренки, соус цезарь.",
+    "price": "249",
+    "name": "Салат Цезарь с цыпленком",
+    "weight": "180",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cesar_s_ciplenkom.jpg"
+  },
+  {
+    "summary": "",
+    "price": "249",
+    "name": "Крылышки в кляре 5 шт. c соусом",
+    "weight": "220",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/krilishki_v_kliare.jpg"
+  },
+  {
+    "summary": "",
+    "price": "99",
+    "name": "Картофель фри с сырным соусом",
+    "weight": "100",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/kartofel_free_s_sirnim_sousom.jpg"
+  },
+  {
+    "summary": "",
+    "price": "135",
+    "name": "Чебурек с мясом и соусом аррива",
+    "weight": "150",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cheburek_s_miasom.jpg"
+  },
+  {
+    "summary": "цыпленок, ветчина, огурец, томаты, маслины, айсберг, яйцо, гауда, сливочно-чесночный соус.",
+    "price": "295",
+    "name": "Салат Мафия",
+    "weight": "300",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/salat_mafia.jpg"
+  },
+  {
+    "summary": "",
+    "price": "99",
+    "name": "Картофель айдахо с сырным соусом",
+    "weight": "100",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/kartofel_aidaho_s_sirnim.jpg"
+  },
+  {
+    "summary": "креветка тигровая, черри, айсберг, пармезан, гренки, соус цезарь.",
+    "price": "299",
+    "name": "Салат Цезарь с креветками",
+    "weight": "180",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cesar_s_krevedkami.jpg"
+  },
+  {
+    "summary": "огурец, томаты, перец болгарский, маслины, айсберг, лук красный, сыр фета, масло оливковое.",
+    "price": "225",
+    "name": "Салат Греческий",
+    "weight": "200",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/salat_grecheskii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "135",
+    "name": "Чебурек с сыром и соусом аррива",
+    "weight": "150",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cheburek_s_sirom.jpg"
+  },
+  {
+    "summary": "цыпленок, шампиньоны, лук, гауда, сливки.",
+    "price": "225",
+    "name": "Жюльен с цыпленком",
+    "weight": "160",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/gulien_s_ciplenkom.jpg"
+  },
+  {
+    "summary": "угорь, сливочный сыр, огурец, унаги соус, кунжут.",
+    "price": "439",
+    "name": "Филадельфия в угре",
+    "weight": "269",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadilfia_v_ugre.jpg"
+  },
+  {
+    "summary": "креветка тигровая, сливочный сыр, омлет, айсберг, кунжут, икра масаго, яки соус.",
+    "price": "395",
+    "name": "Запечённый ролл с креветкой",
+    "weight": "279",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_krevetkami.jpg"
+  },
+  {
+    "summary": "лосось, угорь, сливочный сыр, омлет, икра масаго, кунжут, яки соус.",
+    "price": "439",
+    "name": "Запечённый ролл с лососем и угрём",
+    "weight": "279",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_lososem_i_ugrem.jpg"
+  },
+  {
+    "summary": "лосось, креветка тигровая, угорь, сливочный сыр, кунжут, унаги соус.",
+    "price": "559",
+    "name": "Ролл Фирменный \"Мафия\"",
+    "weight": "274",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/firemennii_mafia.jpg"
+  },
+  {
+    "summary": "креветка тигровая, огурец, миндаль, краб-крем, икра масаго, шеф соус.",
+    "price": "295",
+    "name": "Калифорния с тигровой креветкой",
+    "weight": "252",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/kalifornia_s_tigrivoi_krevedkoi.jpg"
+  },
+  {
+    "summary": "лосось, огурец, сливочный сыр.",
+    "price": "269",
+    "name": "Филадельфия лайт",
+    "weight": "207",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadelfia_light.jpg"
+  },
+  {
+    "summary": "сливочный сыр, креветка тигровая, краб-крем, айсберг, лимон, унаги соус, кунжут.",
+    "price": "395",
+    "name": "Королевский ролл с креветкой",
+    "weight": "269",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/korolevskii_s_krevedkoi.jpg"
+  },
+  {
+    "summary": "лосось, огурец, сливочный сыр.",
+    "price": "399",
+    "name": "Филадельфия люкс",
+    "weight": "267",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadelfia_lux.jpg"
+  },
+  {
+    "summary": "угорь, омлет, огурец, краб-крем, икра масаго, спайси масаго соус.",
+    "price": "335",
+    "name": "Запеченный ролл Сицилия",
+    "weight": "202",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_sicilia.jpg"
+  },
+  {
+    "summary": "цыпленок, омлет, кунжут, огурец, сливочный сыр, перец болгарский, Сырный соус, унаги соус, соус Шеф.",
+    "price": "265",
+    "name": "Запеченный ролл Джеральдино",
+    "weight": "304",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_dgerdino.jpg"
+  },
+  {
+    "summary": "лосось, креветка тигровая, сливочный сыр, огурец.",
+    "price": "439",
+    "name": "Филадельфия с тигровой креветкой",
+    "weight": "277",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/filadelfia_s_tigrovoi_krevetkoi.jpg"
+  },
+  {
+    "summary": "шиитаке терияки, цыпленок, омлет, сливочный сыр, моцарелла, икра масаго, Сырный соус.",
+    "price": "299",
+    "name": "Ролл с шиитаке в моцарелле",
+    "weight": "265",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/shiitaki_v_mocarelle.jpg"
+  },
+  {
+    "summary": "Сырный соус, лосось, креветка тигровая, сливочный сыр, моцарелла, икра масаго.",
+    "price": "399",
+    "name": "Ролл с лососем и креветкой в моцарелле",
+    "weight": "265",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/s_lososem_i_krevedeoi_v_macarelle.jpg"
+  },
+  {
+    "summary": "угорь, моцарелла, сливочный сыр, икра масаго, Сырный соус.",
+    "price": "479",
+    "name": "Ролл с угрем в моцарелле",
+    "weight": "260",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/s_ugrem_v_mocarelle.jpg"
+  },
+  {
+    "summary": "лосось, блин, сливочный сыр, огурец, томаты, икра масаго, кунжут, унаги соус.",
+    "price": "265",
+    "name": "Ролл Венеция",
+    "weight": "190",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/venecia.jpg"
+  },
+  {
+    "summary": "лосось, креветка тигровая, омлет, сливочный сыр, икра масаго, кунжут, яки соус.",
+    "price": "399",
+    "name": "Запеченный ролл Лосось и креветка",
+    "weight": "269",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_losos_i_krevedka.jpg"
+  },
+  {
+    "summary": "угорь, омлет, сливочный сыр, огурец, икра масаго, кунжут, яки соус.",
+    "price": "439",
+    "name": "Запеченный ролл с угрем",
+    "weight": "289",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_ugrem.jpg"
+  },
+  {
+    "summary": "лосось, огурец, сливочный сыр, икра масаго, кунжут, яки соус.",
+    "price": "399",
+    "name": "Запеченный ролл с лососем",
+    "weight": "289",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_s_lososem.jpg"
+  },
+  {
+    "summary": "авокадо, сливочный сыр, краб-крем, икра масаго, соус Шеф.",
+    "price": "295",
+    "name": "Запеченный ролл Великий Гэтсби",
+    "weight": "290",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/zapechenii_velikii_getsbi.jpg"
+  },
+  {
+    "summary": "лосось, огурец, краб-крем, сливочный сыр, икра масаго, кунжут.",
+    "price": "335",
+    "name": "Ролл Феникс",
+    "weight": "239",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/fenix.jpg"
+  },
+  {
+    "summary": "лосось, краб-крем, омлет, огурец, айсберг, пармезан, икра масаго, сливочно-чесночный соус.",
+    "price": "299",
+    "name": "Ролл Мажор",
+    "weight": "274",
+    "type": "roll",
+    "url": "https://pust89.github.io/img/m/rolls/magor.jpg"
+  },
+   {
+    "summary": "свиные рёбрышки, цветная капуста в кляре, соус барбекю.",
+    "price": "399",
+    "name": "Рёбрышки",
+    "weight": "340",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/rebrishki.jpg"
+  },
+  {
+    "summary": "утка, грибы шиитаке, фасоль стручковая , морковь, лук, дайкон, редис, чеснок, перец чили , кунжут, устричный соус, пикантный соус.",
+    "price": "445",
+    "name": "Утка с овощами",
+    "weight": "280",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/utka_s_ovoshami.jpg"
+  },
+  {
+    "summary": "фарш говяжий, лук, зира, кориандр, ролл пшеничный, перец черный , перец красный , соус шашлычный.",
+    "price": "335",
+    "name": "Люля Кебаб",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/lula_kebab.jpg"
+  },
+  {
+    "summary": "цыпленок, ананас, кешью, фасоль, сельдерей, чеснок, перец чили , кунжут, кинза, лук зеленый, соус сладкий чили.",
+    "price": "349",
+    "name": "Цыпленок с ананасами и кешью",
+    "weight": "280",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/ciplenok_s_ananasmi.jpg"
+  },
+  {
+    "summary": "цыпленок, томаты, огурец, соус шаверма.",
+    "price": "249",
+    "name": "Шаверма с цыпленком",
+    "weight": "275",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shaverma_s_ciplenkom.jpg"
+  },
+  {
+    "summary": "цыпленок, лаваш, лук маринованный, соус шашлычный.",
+    "price": "335",
+    "name": "Шашлык из грудки цыпленка",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shashlik_iz_grudki_ciplenak.jpg"
+  },
+  {
+    "summary": "свинина, лаваш, лук маринованный, соус шашлычный.",
+    "price": "399",
+    "name": "Шашлык из свинины",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shahlik_iz_svinini.jpg"
+  },
+  {
+    "summary": "спагетти, бекон, лук, яйцо, перец черный , сливки.",
+    "price": "325",
+    "name": "Паста карбонара",
+    "weight": "320",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/pasta_karbanara.jpg"
+  },
+  {
+    "summary": "свинина, фасоль, чеснок, кунжут, перец чили , кинза, лук зеленый, соус томатно-острый.",
+    "price": "399",
+    "name": "Свинина по-сычуаньски",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/svinina_po_sichuanski.jpg"
+  },
+  {
+    "summary": "цыпленок, лаваш, соус шашлычный.",
+    "price": "355",
+    "name": "Шашлык из бедра цыпленка",
+    "weight": "290",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/shahlik_iz_bedra_ciplenka.jpg"
+  },
+  {
+    "summary": "огурец, томаты, перец болгарский, лук зеленый, укроп, кинза, перец черный .",
+    "price": "169",
+    "name": "Овощная тарелка к шашлыку",
+    "weight": "190",
+    "type": "hot",
+    "url": "https://pust89.github.io/img/m/hots/ovoshnay_tarelka.jpg"
+  },
+  {
+    "summary": "",
+    "price": "165",
+    "name": "Морс из черной смородины 1 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/mors_iz_chern_smorodini.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Морс клюквенный 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/mors_klukvennii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Лимонад имбирный 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/limonad_imbirnii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "130",
+    "name": "Coca-Cola 1 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/coca_cola.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Sprite 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/sprite.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Fanta 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/fanta.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Coca-Cola Zero 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/coca_cola_zero.jpg"
+  },
+  {
+    "summary": "",
+    "price": "89",
+    "name": "Чай FuzeTea лесные ягоды 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/fuzetea.jpg"
+  },
+  {
+    "summary": "",
+    "price": "50",
+    "name": "BonAqua негаз. 0,5 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/bonaqua.jpg"
+  },
+  {
+    "summary": "",
+    "price": "130",
+    "name": "Энергетический напиток Burn 0,33 л",
+    "weight": "",
+    "type": "drink",
+    "url": "https://pust89.github.io/img/m/drinks/burn.jpg"
+  },
+   {
+    "summary": "",
+    "price": "199",
+    "name": "Сметанник",
+    "weight": "120",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/smetannik.jpg"
+  },
+  {
+    "summary": "творог, груша, чернослив, киви, сахарная пудра, топпинг клубничный, топпинг шоколадный.",
+    "price": "199",
+    "name": "Шокко дольче",
+    "weight": "175",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/shoko_dolche.jpg"
+  },
+  {
+    "summary": "топпинг клубничный, топпинг шоколадный, Чизкейк классический.",
+    "price": "165",
+    "name": "Чизкейк классический",
+    "weight": "120",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/chesecake_classic.jpg"
+  },
+  {
+    "summary": "творог, вишня, груша, манго, топпинг шоколадный, топпинг клубничный, сахарная пудра.",
+    "price": "199",
+    "name": "Дольче фрутто",
+    "weight": "146",
+    "type": "dessert",
+    "url": "https://pust89.github.io/img/m/desserts/dolche_frutto.jpg"
+  },
+   {
+    "summary": "котлета говяжья, айсберг, огурцы маринованные, лук красный, соус барбекю.",
+    "price": "349",
+    "name": "Двойной бургер",
+    "weight": "280",
+    "type": "burger",
+    "url": "https://pust89.github.io/img/m/burgers/dvoinoi.jpg"
+  },
+  {
+    "summary": "цыпленок, айсберг, томаты, огурцы маринованные, лук красный, Сырный соус.",
+    "price": "329",
+    "name": "Бургер с цыпленком и сырным соусом",
+    "weight": "345",
+    "type": "burger",
+    "url": "https://pust89.github.io/img/m/burgers/s_ciplenkom_i_sirnim_sousom.jpg"
+  },
+  {
+    "summary": "",
+    "price": "80",
+    "name": "Комбо соус",
+    "weight": "",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/combo_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "25",
+    "name": "Соус Деликатес",
+    "weight": "",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/sous_delikates.jpg"
+  },
+  {
+    "summary": "",
+    "price": "25",
+    "name": "Соус Нежный",
+    "weight": "",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/sous_neznii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Васаби",
+    "weight": "10",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/vassabi.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Имбирь",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/imbir.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Соевый соус",
+    "weight": "100",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/soevii_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Спайси соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/spaicy_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Терияки соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/teriaki_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "40",
+    "name": "Унаги соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/unagi_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "50",
+    "name": "Ореховый соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/orehovii_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "30",
+    "name": "Шашлычный соус",
+    "weight": "30",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/shahlichnii_sous.jpg"
+  },
+  {
+    "summary": "",
+    "price": "30",
+    "name": "Кетчуп",
+    "weight": "25",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/ketchup.jpg"
+  },
+  {
+    "summary": "",
+    "price": "30",
+    "name": "Сырный соус",
+    "weight": "25",
+    "type": "additionally",
+    "url": "https://pust89.github.io/img/m/additionally/sirnii_sous.jpg"
+  }
+]

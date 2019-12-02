@@ -1,0 +1,98 @@
+﻿[
+  {
+    "summary": "фишен чипсы, картофель фри, соус.",
+    "price": "299",
+    "name": "Фиш-н-чипс",
+    "weight": "260",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/fish_and_chips.jpg"
+  },
+  {
+    "summary": "ветчина, яйцо, корнишоны, морковь, картофель, горошек, укроп.",
+    "price": "199",
+    "name": "Оливье",
+    "weight": "170",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/olive.jpg"
+  },
+  {
+    "summary": "цыпленок, черри, айсберг, пармезан, гренки, соус цезарь.",
+    "price": "249",
+    "name": "Салат Цезарь с цыпленком",
+    "weight": "180",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cesar_s_ciplenkom.jpg"
+  },
+  {
+    "summary": "",
+    "price": "249",
+    "name": "Крылышки в кляре 5 шт. c соусом",
+    "weight": "220",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/krilishki_v_kliare.jpg"
+  },
+  {
+    "summary": "",
+    "price": "99",
+    "name": "Картофель фри с сырным соусом",
+    "weight": "100",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/kartofel_free_s_sirnim_sousom.jpg"
+  },
+  {
+    "summary": "",
+    "price": "135",
+    "name": "Чебурек с мясом и соусом аррива",
+    "weight": "150",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cheburek_s_miasom.jpg"
+  },
+  {
+    "summary": "цыпленок, ветчина, огурец, томаты, маслины, айсберг, яйцо, гауда, сливочно-чесночный соус.",
+    "price": "295",
+    "name": "Салат Мафия",
+    "weight": "300",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/salat_mafia.jpg"
+  },
+  {
+    "summary": "",
+    "price": "99",
+    "name": "Картофель айдахо с сырным соусом",
+    "weight": "100",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/kartofel_aidaho_s_sirnim.jpg"
+  },
+  {
+    "summary": "креветка тигровая, черри, айсберг, пармезан, гренки, соус цезарь.",
+    "price": "299",
+    "name": "Салат Цезарь с креветками",
+    "weight": "180",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cesar_s_krevedkami.jpg"
+  },
+  {
+    "summary": "огурец, томаты, перец болгарский, маслины, айсберг, лук красный, сыр фета, масло оливковое.",
+    "price": "225",
+    "name": "Салат Греческий",
+    "weight": "200",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/salat_grecheskii.jpg"
+  },
+  {
+    "summary": "",
+    "price": "135",
+    "name": "Чебурек с сыром и соусом аррива",
+    "weight": "150",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/cheburek_s_sirom.jpg"
+  },
+  {
+    "summary": "цыпленок, шампиньоны, лук, гауда, сливки.",
+    "price": "225",
+    "name": "Жюльен с цыпленком",
+    "weight": "160",
+    "type": "salad_or_snack",
+    "url": "https://pust89.github.io/img/m/salads_and_snacks/gulien_s_ciplenkom.jpg"
+  }
+]
