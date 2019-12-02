@@ -1,0 +1,194 @@
+﻿[
+  {
+    "summary": "пепперони, колбаски охотничьи, моцарелла, пармезан, паприка, лук, спайси соус.",
+    "price": "475",
+    "name": "Ранчо",
+    "weight": "690",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/rancho.jpg"
+  },
+  {
+    "summary": "цыпленок копченый, шампиньоны, корнишоны, халапеньо, айсберг, лук, моцарелла, пармезан, нежный соус.",
+    "price": "495",
+    "name": "Сорренто",
+    "weight": "720",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/sorento.jpg"
+  },
+  {
+    "summary": "пепперони, шампиньоны, корнишоны, лук, моцарелла, пармезан, спайси соус, унаги соус.",
+    "price": "495",
+    "name": "Феличита",
+    "weight": "720",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/felichita.jpg"
+  },
+  {
+    "summary": "моцарелла, томаты, пармезан, болоньезе соус, паприка, сливочно-чесночный соус.",
+    "price": "499",
+    "name": "Болоньезе",
+    "weight": "760",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/boloneze.jpg"
+  },
+  {
+    "summary": "ветчина, пепперони, цыпленок, бекон, моцарелла, лук, соус-пицца.",
+    "price": "499",
+    "name": "Четыре сезона",
+    "weight": "510",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/four_season.jpg"
+  },
+  {
+    "summary": "ветчина, цыпленок, пепперони, шампиньоны, томаты, моцарелла, пармезан, лук, чеснок, соус-пицца.",
+    "price": "499",
+    "name": "Петровская",
+    "weight": "820",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/petrovkoya.jpg"
+  },
+  {
+    "summary": "цыпленок, томаты, айсберг, огурец, моцарелла, лук, сливочно-чесночный соус, кетчуп.",
+    "price": "475",
+    "name": "Аль-Шам",
+    "weight": "570",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/al_sham.jpg"
+  },
+  {
+    "summary": "бекон, ветчина, колбаски охотничьи, пепперони, халапеньо, пармезан, моцарелла, паприка, лук красный, соус-пицца.",
+    "price": "599",
+    "name": "Мафия",
+    "weight": "810",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/mafia.jpg"
+  },
+  {
+    "summary": "пепперони, моцарелла, соус-пицца.",
+    "price": "475",
+    "name": "Пепперони",
+    "weight": "620",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/peperoni.jpg"
+  },
+  {
+    "summary": "моцарелла, сыр дорблю, гауда, пармезан, песто.",
+    "price": "475",
+    "name": "4 сыра",
+    "weight": "630",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/four_chese.jpg"
+  },
+  {
+    "summary": "бекон, цыпленок копченый, шампиньоны, пармезан, моцарелла, лук, сливочно-чесночный соус, соус барбекю.",
+    "price": "416",
+    "name": "Чикен барбекю",
+    "weight": "730",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/chiken_barbeku.jpg"
+  },
+  {
+    "summary": "ветчина, пепперони, шампиньоны, пармезан, халапеньо, моцарелла, лук, паприка маринованная, соус-пицца.",
+    "price": "495",
+    "name": "Дракон",
+    "weight": "720",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/drakon.jpg"
+  },
+  {
+    "summary": "маслины, тунец, моцарелла, лук, соус-пицца.",
+    "price": "565",
+    "name": "Тони Тунец",
+    "weight": "700",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/toni_tunec.jpg"
+  },
+  {
+    "summary": "шампиньоны, ветчина, моцарелла, соус-пицца.",
+    "price": "399",
+    "name": "Прошутто Фунги",
+    "weight": "650",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/proshuto_fungi.jpg"
+  },
+  {
+    "summary": "котлета говяжья, бекон, лук, айсберг, корнишоны, халапеньо, паприка, моцарелла, кунжут, сливочно-чесночный соус.",
+    "price": "599",
+    "name": "БикМак",
+    "weight": "805",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/bigmak.jpg"
+  },
+  {
+    "summary": "ветчина, шампиньоны, томаты, моцарелла, пармезан, яйцо, лук, сливочно-чесночный соус.",
+    "price": "495",
+    "name": "Нежная",
+    "weight": "795",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/negnaia.jpg"
+  },
+  {
+    "summary": "цыпленок копченый, моцарелла, яйцо, лук, соус грибной.",
+    "price": "565",
+    "name": "Жюльен",
+    "weight": "800",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/gulien.jpg"
+  },
+  {
+    "summary": "фирменный соус, цыпленок, ветчина, креветка салатная, ананас, моцарелла.",
+    "price": "565",
+    "name": "Гавайская",
+    "weight": "730",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/gavaiskay.jpg"
+  },
+  {
+    "summary": "бекон, ветчина, шампиньоны, моцарелла, пармезан, лук, чеснок, соус-пицца.",
+    "price": "565",
+    "name": "Деревенская",
+    "weight": "810",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/derevenskaia.jpg"
+  },
+  {
+    "summary": "бекон, яйцо, паприка, моцарелла, лук, соус-пицца.",
+    "price": "399",
+    "name": "Карбонара",
+    "weight": "440",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/karbanara.jpg"
+  },
+  {
+    "summary": "ветчина, бекон, сосиски мюнхенские, опята, черри, моцарелла, пармезан, лук, сливочно-чесночный соус.",
+    "price": "675",
+    "name": "Мюнхен",
+    "weight": "840",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/munchen.jpg"
+  },
+  {
+    "summary": "ветчина, сосиски мюнхенские, бекон, шампиньоны, моцарелла, лук, сливочно-чесночный соус.",
+    "price": "565",
+    "name": "Мичиган",
+    "weight": "760",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/michigan.jpg"
+  },
+  {
+    "summary": "шампиньоны, томаты, корнишоны, маслины, сыр фета, пармезан, моцарелла, соус-пицца, лук, паприка.",
+    "price": "495",
+    "name": "Вегетарианская",
+    "weight": "730",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/vegatarianskaia.jpg"
+  },
+  {
+    "summary": "моцарелла, базилик, соус-пицца.",
+    "price": "350",
+    "name": "Маргарита",
+    "weight": "520",
+    "type": "pizza",
+    "url": "https://pust89.github.io/img/m/pizza/margarita.jpg"
+  }
+]
