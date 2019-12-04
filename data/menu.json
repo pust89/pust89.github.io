@@ -1,4 +1,5 @@
-﻿[
+﻿{
+ "menu": [
   {
     "summary": "пепперони, колбаски охотничьи, моцарелла, пармезан, паприка, лук, спайси соус.",
     "price": "475",
@@ -1048,3 +1049,4 @@
     "url": "https://pust89.github.io/img/m/additionally/sirnii_sous.jpg"
   }
 ]
+}
